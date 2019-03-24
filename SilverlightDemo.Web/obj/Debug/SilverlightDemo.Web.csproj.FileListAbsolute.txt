@@ -1,0 +1,4 @@
+E:\02study\02code\Silverlight\SilverlightDemo\SilverlightDemo.Web\bin\SilverlightDemo.Web.dll
+E:\02study\02code\Silverlight\SilverlightDemo\SilverlightDemo.Web\bin\SilverlightDemo.Web.pdb
+E:\02study\02code\Silverlight\SilverlightDemo\SilverlightDemo.Web\obj\Debug\SilverlightDemo.Web.dll
+E:\02study\02code\Silverlight\SilverlightDemo\SilverlightDemo.Web\obj\Debug\SilverlightDemo.Web.pdb

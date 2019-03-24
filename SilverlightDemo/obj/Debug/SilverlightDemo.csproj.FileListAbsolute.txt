@@ -1,0 +1,11 @@
+E:\02study\02code\Silverlight\SilverlightDemo\SilverlightDemo\Bin\Debug\SilverlightDemo.dll
+E:\02study\02code\Silverlight\SilverlightDemo\SilverlightDemo\Bin\Debug\SilverlightDemo.pdb
+E:\02study\02code\Silverlight\SilverlightDemo\SilverlightDemo\Bin\Debug\AppManifest.xaml
+E:\02study\02code\Silverlight\SilverlightDemo\SilverlightDemo\Bin\Debug\SilverlightDemo.xap
+E:\02study\02code\Silverlight\SilverlightDemo\SilverlightDemo\Bin\Debug\SilverlightDemoTestPage.html
+E:\02study\02code\Silverlight\SilverlightDemo\SilverlightDemo\obj\Debug\App.g.i.cs
+E:\02study\02code\Silverlight\SilverlightDemo\SilverlightDemo\obj\Debug\MainPage.g.i.cs
+E:\02study\02code\Silverlight\SilverlightDemo\SilverlightDemo\obj\Debug\SilverlightDemo.g.resources
+E:\02study\02code\Silverlight\SilverlightDemo\SilverlightDemo\obj\Debug\SilverlightDemo.dll
+E:\02study\02code\Silverlight\SilverlightDemo\SilverlightDemo\obj\Debug\SilverlightDemo.pdb
+E:\02study\02code\Silverlight\SilverlightDemo\SilverlightDemo\obj\Debug\XapCacheFile.xml
